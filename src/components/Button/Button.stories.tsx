@@ -50,7 +50,7 @@ SmallSecondary.args = {
 export const SmallSecondaryWithCustomClass = Template.bind({});
 SmallSecondaryWithCustomClass.args = {
   size: 'small',
-  label: 'Small Secondary with Custom class name',
+  label: 'Custom Button',
   variant: 'secondary',
   className: 'custom',
 };
